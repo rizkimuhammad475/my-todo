@@ -1,0 +1,20 @@
+{
+    "name": "muhammadrizki/todo",
+    "description": "rizki package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rizkimuhammad475",
+            "email": "rizkimuhammad475@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Amitav\\Todo\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "~5"
+    }
+}
